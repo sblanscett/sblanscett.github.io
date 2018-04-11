@@ -1,5 +1,4 @@
-html, body, div, span, applet, object, iframe,
-h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+html, body, div, span, applet, object, iframe, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
 del, dfn, em, img, ins, kbd, q, s, samp,
 small, strike, strong, sub, sup, tt, var,
@@ -15,9 +14,13 @@ time, mark, audio, video {
   padding: 0;
   border: 0;
   font-size: 100%;
-  font: inherit;
+  font: times new roman;
   vertical-align: baseline; 
   background-color:rgb(181, 252, 228); }
+
+h1, h2, h3, h4, h5, h6 {
+  color:rgb(46, 2, 44);
+  font: Arial; }
 
 body {
   line-height: 1; }
