@@ -16,11 +16,13 @@ time, mark, audio, video {
   font-size: 100%;
   font: times new roman;
   vertical-align: baseline; 
+  text-align: center;
   background-color:rgb(181, 252, 228); }
 
 h1, h2, h3, h4, h5, h6 {
   color:rgb(46, 2, 44);
-  font: Arial; }
+  font: Arial; 
+  text-align: center; }
 
 body {
   line-height: 1; }
